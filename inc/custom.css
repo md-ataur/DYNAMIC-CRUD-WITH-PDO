@@ -1,0 +1,16 @@
+.navbar {background: #f3f3f3;border: 1px solid #ddd;padding: 0 0;margin: 0 0 14px;}
+.footnavbar {background: #f3f3f3;border: 1px solid #ddd;padding: 15px 15px;}
+.titl {border: 1px solid #ddd;background: #f3f3f3;padding: 10px 12px;}
+.panel {padding: 0; border: 1px solid #ddd;border-top: none;}
+.list-data{width: 100%; padding: 0;}
+.titl .btn {display: inline;}
+button {cursor: pointer;}
+.titl h5 {float: left;}
+.titl .btn.btn-info a {color: #fff;}
+a:hover{text-decoration: none;}
+.clearer{clear: both;}
+.title_bar {margin: 0 0 15px; background: #f3f3f3;padding: 8px 15px;border: 1px solid #ddd;text-align: center;}
+.title_bar a {color: #474747;font-size: 1.25rem;}
+.container .table td, .table th {padding: 8px 10px;}
+.footnavbar h3 {text-align: center;font-size: 22px;}
+.add-data{width: 50%; margin:0px auto; padding: 15px 0 0;}
